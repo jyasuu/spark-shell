@@ -1,0 +1,2 @@
+connect --host
+exec-file --file ./example.sql --stop-on-error false
